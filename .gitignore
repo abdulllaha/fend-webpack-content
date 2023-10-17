@@ -1,2 +1,6 @@
 node_modules
 dist
+<<<<<<< HEAD
+=======
+info.json
+>>>>>>> 1-install-webpack
